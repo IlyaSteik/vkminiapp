@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/vkminiapp/static/css/main.197e902f.chunk.css",
+    "main.js": "/vkminiapp/static/js/main.47f933ed.chunk.js",
+    "runtime-main.js": "/vkminiapp/static/js/runtime-main.60590f17.js",
+    "static/css/2.19481ff5.chunk.css": "/vkminiapp/static/css/2.19481ff5.chunk.css",
+    "static/js/2.b018ff4d.chunk.js": "/vkminiapp/static/js/2.b018ff4d.chunk.js",
+    "index.html": "/vkminiapp/index.html",
+    "precache-manifest.7d5035426e544da640daffac893f7b85.js": "/vkminiapp/precache-manifest.7d5035426e544da640daffac893f7b85.js",
+    "service-worker.js": "/vkminiapp/service-worker.js",
+    "static/media/Tracker.css": "/vkminiapp/static/media/SF-Pro-Text-Regular.85bd46c1.ttf",
+    "static/media/Icon16Chevron.svg": "/vkminiapp/static/media/Icon16Chevron.3c2fba9a.svg",
+    "static/media/Icon34Airplane.svg": "/vkminiapp/static/media/Icon34Airplane.2ecd0e55.svg",
+    "static/media/Icon34Box.svg": "/vkminiapp/static/media/Icon34Box.97c8c1d5.svg",
+    "static/media/Icon34Building.svg": "/vkminiapp/static/media/Icon34Building.be442d3f.svg",
+    "static/media/Icon34Customs.svg": "/vkminiapp/static/media/Icon34Customs.56283d15.svg",
+    "static/media/Icon34Customs2.svg": "/vkminiapp/static/media/Icon34Customs2.1a440d2c.svg",
+    "static/media/Icon34Error.svg": "/vkminiapp/static/media/Icon34Error.7220498a.svg",
+    "static/media/Icon34Inbox.svg": "/vkminiapp/static/media/Icon34Inbox.1500bfbc.svg",
+    "static/media/Icon34Like.svg": "/vkminiapp/static/media/Icon34Like.42e1a2bf.svg",
+    "static/media/Icon34Message.svg": "/vkminiapp/static/media/Icon34Message.4d3764cb.svg",
+    "static/media/Icon34Truck.svg": "/vkminiapp/static/media/Icon34Truck.4f334d83.svg",
+    "static/media/Icon38Message.svg": "/vkminiapp/static/media/Icon38Message.de56e6a4.svg",
+    "static/media/MainPlaceholderButton.svg": "/vkminiapp/static/media/MainPlaceholderButton.1567b63e.svg",
+    "static/media/MainPlaceholderButtonLoading.svg": "/vkminiapp/static/media/MainPlaceholderButtonLoading.25fce6f4.svg",
+    "static/media/MainPlaceholderIcon.svg": "/vkminiapp/static/media/MainPlaceholderIcon.d2254395.svg"
+  }
+}
